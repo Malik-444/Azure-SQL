@@ -94,11 +94,11 @@ By completing this project, you will enhance your proficiency in setting up and 
 11. **Testing Database**:
     - Run a query to make sure everything work and get familiar with the SQL Server Management Studio.
       ![2](https://github.com/Malik-444/Azure-SQL/assets/151242422/924a5ac9-e78a-4d10-ba1a-0cf61e7bad9c)
-      1:The Actaul database you are going to be useing you query in (make sure you change databases to match the type of query you are doing)
-      2: List of databases
-      3:Results of your query
-      4:To start a query(queries get saved after exiting studio to be used later)
-      5: The actual query we wrote to test out 
+    - 1:The Actaul database you are going to be useing you query in (make sure you change databases to match the type of query you are doing)
+    -2: List of databases
+    -3:Results of your query
+    -4:To start a query(queries get saved after exiting studio to be used later)
+    -5: The actual query we wrote to test out 
 
 12. **Manage and Monitor**:
     - Regularly manage and monitor the database performance using Azure monitoring tools.

@@ -1,5 +1,6 @@
 
 # Azure SQL Database Setup
+![image_2024-03-29_112428155](https://github.com/Malik-444/Azure-SQL/assets/151242422/6361316d-d18f-461e-856e-110feb445f3b)
 
 
 **Project Description**:
